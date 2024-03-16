@@ -1,0 +1,2 @@
+version=3.2.0-PRERELEASE
+commit=6c87d1d0d7ddf2507f08cf28c19ce452d92171f8

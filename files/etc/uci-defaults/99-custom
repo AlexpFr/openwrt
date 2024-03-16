@@ -32,6 +32,10 @@ uci commit
 
 /etc/init.d/network reload
 wifi up radio1
+
+service cake-autorate enable
+service cake-autorate start
+
 # Configure profile
 mkdir -p /etc/profile.d
 cat << "EOF" > /etc/profile.d/uci.sh
